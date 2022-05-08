@@ -26,6 +26,7 @@ import mu5 from '../assets/mu5.png';
 import nb from '../assets/nb.png';
 import node from '../assets/node.png';
 import profile from '../assets/profile.png';
+import profile_first from '../assets/profile_first.png';
 import python from '../assets/python.png';
 import react from '../assets/react.png';
 import redux from '../assets/redux.png';
@@ -34,7 +35,7 @@ import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
-
+// eslint-disable-next-line
 export default {
     about01,
     about02,
@@ -64,6 +65,7 @@ export default {
     nb,
     node,
     profile,
+    profile_first,
     python,
     react,
     redux,
